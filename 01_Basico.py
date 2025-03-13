@@ -28,3 +28,5 @@ print("La division de ", int, " / " , float, " es igual a: ", div)
 
 #Para poder preguntar datos se utiliza input de esta forma:
 saludo = input("¿Como estas? ")
+#Cuando el tipo de dato es String No se ocupa especificar pero cuando es cualquier otro si...
+numF = int(input("¿Cual es tu numero favorito? "))
